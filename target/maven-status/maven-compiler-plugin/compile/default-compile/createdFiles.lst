@@ -1,0 +1,8 @@
+app\servlets\game\FindGameServlet.class
+app\helpers\GameHelper.class
+app\servlets\game\CreateGameServlet.class
+app\servlets\IndexServlet.class
+app\models\Game.class
+app\helpers\DataBaseHelper.class
+app\servlets\game\GameServlet.class
+app\websockets\GameWebSocket.class
